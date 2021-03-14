@@ -4,9 +4,9 @@
     {   
     //i for rows and j for columns      
     //row denotes the number of rows you want to print  
-    int i, j, row=6;   
+    int i, j, row=4;   
     //outer loop for rows  
-    for(i=0; i<6; i++)   
+    for(i=0; i<=row; i++)   
     {   
     //inner loop for columns  
     for(j=0; j<=i; j++)   
